@@ -4,6 +4,8 @@
 
 This repository contains the [code](flink-statefun) of Flink StateFun extended with two-phase commit transactions and sagas.
 
+This project is an extension of the [StateFun project](https://github.com/apache/flink-statefun).
+
 ## Evaluation code
 
 The code to perform the evaluation can be found in the [experiments folder](experiments).
